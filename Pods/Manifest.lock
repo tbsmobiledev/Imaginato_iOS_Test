@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.4.1)
+  - MKProgress (1.1.0)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MKProgress
+  - RxCocoa (= 6.1.0)
+  - RxSwift (= 6.1.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MKProgress
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  MKProgress: 260d166200323f3d991190a73ab2dc3a04b0f52f
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+
+PODFILE CHECKSUM: d59cc8160f58dbae651d2dd2af72b29935cf2d78
+
+COCOAPODS: 1.10.1
